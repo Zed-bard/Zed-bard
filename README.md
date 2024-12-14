@@ -1,5 +1,5 @@
 ![ezgif com-gif-maker](https://github.com/Zed-bard/Zed-bard/assets/132649828/90c00ad4-4fbe-485d-865d-8120e49fd9d3)<h1 align="center">Hi 👋, I'm Zerihun Shiferaw</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate frontend and Backend developer also Virtual Assistance from Ethiopia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zed-bard&label=Profile%20views&color=0e75b6&style=flat" alt="zed-bard" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS,**
 
-- 📫 How to reach me **zerihunbard@gmail.com**
+- 📫 How to reach me **zerihundev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
